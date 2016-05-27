@@ -1,5 +1,5 @@
-# Thunder
-Sistema de Administracion de un Restaurant, Cafeteria, Bar, Pizzeria, etc
+# Kaluna VTAS
+Sistema de Administracion de Ventas
 
 
 ### Version 1.1
